@@ -1,4 +1,4 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+Ref,Val,Package,PosX,PosY,Rot,Side
 "C1","100nF","C_Disc_D3.0mm_W1.6mm_P2.50mm",175.500000,-96.850000,0.000000,top
 "C2","10uF","C_Radial_D5.0mm_H11.0mm_P2.00mm",173.000000,-108.000000,0.000000,top
 "C3","1uF","C_Disc_D3.0mm_W1.6mm_P2.50mm",175.500000,-100.000000,0.000000,top
