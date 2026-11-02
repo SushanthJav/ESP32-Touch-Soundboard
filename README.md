@@ -1,2 +1,5 @@
 # ESP32-Touch-Soundboard
-ESP32 Touch Soundboard: A custom PCB combining an ESP32, 2.8-inch TFT display, and hardware triggers.
+The ESP32 Touch Soundboard is a custom embedded hardware project designed to integrate user input, a graphical display, and real-time audio output onto a single printed circuit board. At its core, an ESP32 microcontroller manages the system operations, interfacing with a 2.8-inch ILI9341 SPI TFT display to render visual user interfaces and processing inputs from physical push buttons and capacitive touch channels. For sound generation, the ESP32 retrieves sound files from internal Flash memory using the LittleFS file system and passes the audio signal through its digital-to-analog converter. This signal is then boosted by an onboard PAM8302 Class-D mono amplifier to drive an external 8 Ohm mini speaker, with carefully routed trace layouts to isolate analog audio lines from digital bus interference. Assembled on a custom 71 mm × 71 mm PCB manufactured via JLCPCB, the device serves as a compact, self-contained platform for interactive audio-visual applications.
+
+<img width="1298" height="956" alt="image" src="https://github.com/user-attachments/assets/4394cb13-ab62-49c6-9bd9-199ce40c2169" />
+<img width="1138" height="950" alt="image" src="https://github.com/user-attachments/assets/ac719a93-16a3-4a78-a3c1-6d697d99332f" />
