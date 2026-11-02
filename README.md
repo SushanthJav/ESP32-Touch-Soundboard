@@ -1,5 +1,18 @@
 # ESP32-Touch-Soundboard
-This ESP32 Project is a piece of embedded hardware that contains a touch screen, display and audio output. The main part of the device is the ESP32 microcontroller. The ESP32 communicates with the 2.8" ILI9341 SPI TFT display allowing visual output. Inputs are provided by the physical buttons and touch screen. Audio is provided by the ESP32 reading audio files from the internal flash memory (using the littleFS file system) and sending the audio signal to the ESP32’s DAC. The signal is amplified by the onboard PAM8302 Class-D mono amplifier to power the external 8 Ohm mini speaker. The traces have been routed carefully so that there are no issues with digital signal interference with the audio signals. This device has been created on a bespoke 71x71mm PCB created using JLCPCB.
+This ESP32 Project is a piece of embedded hardware that contains a touch screen, display and audio output. The main part of 
+
+the device is the ESP32 microcontroller. The ESP32 communicates with the 2.8" ILI9341 SPI TFT display allowing visual output.
+
+Inputs are provided by the physical buttons and touch screen. Audio is provided by the ESP32 reading audio files from the 
+
+internal flash memory (using the littleFS file system) and sending the audio signal to the ESP32’s DAC. The signal is
+
+amplified by the onboard PAM8302 Class-D mono amplifier to power the external 8 Ohm mini speaker. The traces have been routed 
+
+carefully so that there are no issues with digital signal interference with the audio signals. This device has been created on 
+
+a bespoke 71x71mm PCB created using JLCPCB.
+
 
 <img width="1298" height="956" alt="image" src="https://github.com/user-attachments/assets/4394cb13-ab62-49c6-9bd9-199ce40c2169" />
 <img width="1138" height="950" alt="image" src="https://github.com/user-attachments/assets/ac719a93-16a3-4a78-a3c1-6d697d99332f" />
