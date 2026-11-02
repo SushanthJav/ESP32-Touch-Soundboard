@@ -1,2 +1,6 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|---|---|---|---|---|---|
+| DIANN 2.8" ILI9341 SPI TFT Display | 1 | Amazon | $12.92 | $12.92 | [Link](https://www.amazon.com/gp/product/B0BNQBKFCT/ref=ox_sc_act_title_1?smid=A2L2YSK9NV3SSU&psc=1) |
+| Custom ESP32 Touch Soundboard PCB | 1 | JLCPCB | $192.92 | $192.92 | [Link](https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=f37e28c278544bf280ef10b74092f190&systemType=order_pcb&orderTypes=order_pcb,order_smt&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002) |
+| Estimated total shipping | 1 | | | $0.00 | |
+| **Total** | | | | **$205.84** | |
