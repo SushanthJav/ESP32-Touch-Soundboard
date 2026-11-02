@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","100nF","C_Disc_D3.0mm_W1.6mm_P2.50mm",175.500000,-96.850000,0.000000,top
+"C2","10uF","C_Radial_D5.0mm_H11.0mm_P2.00mm",173.000000,-108.000000,0.000000,top
+"C3","1uF","C_Disc_D3.0mm_W1.6mm_P2.50mm",175.500000,-100.000000,0.000000,top
+"C4","100nF","C_Disc_D3.0mm_W1.6mm_P2.50mm",175.500000,-103.150000,0.000000,top
+"C5","10uF","C_Radial_D5.0mm_H11.0mm_P2.00mm",181.000000,-108.000000,0.000000,top
+"J1","Conn_01x08_Socket","PinSocket_1x08_P2.54mm_Vertical",186.845000,-68.795000,0.000000,top
+"J2","Conn_01x06_Socket","PinSocket_1x06_P2.54mm_Vertical",186.845000,-91.165000,0.000000,top
+"J3","Conn_01x05_Pin","PinHeader_1x05_P2.54mm_Vertical",148.000000,-92.000000,0.000000,top
+"J4","Conn_01x02_Pin","PinHeader_1x02_P2.54mm_Vertical",182.000000,-98.000000,0.000000,top
+"J5","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",172.000000,-92.000000,0.000000,top
+"R1","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",175.380000,-91.000000,0.000000,top
+"R2","10k","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",175.380000,-94.000000,0.000000,top
+"SW1","RESET","SW_PUSH_6mm",137.525000,-91.000000,0.000000,top
+"SW2","BOOT","SW_PUSH_6mm",137.525000,-100.000000,0.000000,top
+"U1","ESP32-WROOM-32","ESP32-WROOM-32",160.025000,-97.765000,0.000000,top
